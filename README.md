@@ -1,4 +1,4 @@
-#Hash Map
-<Enter>
-###*A simple implementation of hash map*
+# Hash Map
+
+### *A simple implementation of hash map*
 
